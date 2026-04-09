@@ -68,7 +68,7 @@ Available in **English** and **Spanish**.
 
 `Markdown` · `Philosophy` · `Python`
 
-[**Read in English**](https://github.com/SpiritualTech33/Yin-Yang-And-Python--EN-) · [**Leer en Espanol**](https://github.com/SpiritualTech33/Yin-Yang-Y-Python--ES-)
+[**Read in English**](https://spiritualtech777.gumroad.com/l/yeajq?layout=profile) · [**Leer en Espanol**](https://spiritualtech777.gumroad.com/l/bxozh?layout=profile)
 
 ---
 
@@ -80,7 +80,7 @@ Six chapters. Forty-two katas. Each concept explored first ontologically — *wh
 
 `Python 3.11` · `pytest` · `42 Katas`
 
-[**Walk the Path**](https://github.com/SpiritualTech33/The-Tao-Of-Python)
+[**Walk the Path**](https://spiritualtech777.gumroad.com/l/cgrkjg?layout=profile)
 
 ---
 
@@ -92,7 +92,7 @@ Running on Ollama with a custom-tuned Gemma 3 model, ZenCode Assistant generates
 
 `Ollama` · `Gemma 3:4b` · `100% Local`
 
-[**Meet the Assistant**](https://github.com/SpiritualTech33/ZenCode-Assistant)
+[**Meet the Assistant**](https://spiritualtech777.gumroad.com/l/hbnwd?layout=profile)
 
 ---
 
