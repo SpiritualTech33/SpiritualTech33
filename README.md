@@ -1,98 +1,150 @@
-<h1 align="center">Hey, I'm Cosmos De La Cruz 👋</h1>
+<div align="center">
 
-<p align="center">
-  AI Engineer in training · Spiritual Tech Founder · Baseball Player · Philosopher of Code
-</p>
+# The Sanctum
 
-<p align="center">
-  <em>"Programs must be written for people to read, and only incidentally for machines to execute."</em><br/>
-  — Harold Abelson
-</p>
+**Where Logic Meets Spirit**
+
+*"The Tao that can be named is not the eternal Tao — but the code that can be read is the eternal code."*
 
 ---
 
-## Who I Am
+`programmer` · `philosopher` · `athlete` · `seeker`
 
-I'm a 25-year-old developer from Mexico building at the intersection of **technology and spirituality**.
-
-I believe code is not just instructions for machines — it's communication between human minds across time.
-I believe AI is not replacing us — it's waiting to collaborate with us.
-I believe the most important question in any discipline is always: **Why?**
-
-By day I train as a gym instructor and yoga teacher.
-By discipline I practice Zen meditation, Tai Chi, and baseball.
-By vocation I write code, study AI, and build tools that carry a soul.
+</div>
 
 ---
 
-## What I'm Building
+## Who Am I
 
-| Project | Description |
-|---|---|
-| 🧘 [ZenCode-Assistant](https://github.com/SpiritualTech33/ZenCode-Assistant) | Local AI coding partner built on Zen & Stoic philosophy. Runs offline via Ollama. |
-| 🥋 [Coding-Katas](https://github.com/SpiritualTech33/Coding-Katas) | Daily offline katas solved with ZenCode principles. Every commit passed pytest first. |
+I'm Cosmos — a developer, philosopher, and baseball athlete who believes that **programming is a contemplative practice**, not just a technical skill. Every line of code I write is guided by the same discipline I bring to meditation, to training, and to the study of the cosmos.
 
----
+My work lives at the intersection of **logic and spirit** — where Western engineering rigor meets Eastern contemplative wisdom. I don't think these are separate worlds. I think they never were.
 
-## My Philosophy — ZenCode
-
-I author and practice **ZenCode** — a programming philosophy inspired by Zen Buddhism,
-Stoicism, and The Zen of Python.
-
-Seven principles. One goal: code that humans can read, understand, and trust.
-
-**The five questions I ask before every commit:**
-1. Will I understand this in six months?
-2. Can someone else understand this without asking me?
-3. Does every name explain itself?
-4. Are my functions focused on one responsibility?
-5. Have I explained the why, not just the what?
+I'm building toward a future where technology serves consciousness, not the other way around.
 
 ---
 
-## My Stack
+## The Philosophy: ZenCode
 
-```python
-cosmos = {
-    "languages"    : ["Python", "TypeScript", "Rust (learning)"],
-    "ai_tools"     : ["Ollama", "Claude Code", "Anthropic API"],
-    "philosophy"   : ["ZenCode", "Zen Buddhism", "Stoicism", "Hermeticism"],
-    "disciplines"  : ["Meditation", "Yoga", "Tai Chi", "Baseball"],
-    "currently"    : "Building Spiritual Tech — where the Divine meets the Digital"
-}
+Everything I build follows **ZenCode** — a programming philosophy rooted in Zen Buddhism, Stoicism, and The Zen of Python:
+
+```
+I.    Clarity Over Cleverness
+II.   Explicitness Over Implicitness
+III.  Naming Is Meaning
+IV.   Code Must Breathe
+V.    Comments Reveal the Why, Not the What
+VI.   One Function, One Responsibility
+VII.  Errors Must Teach
+```
+
+> *"Programs must be written for people to read, and only incidentally for machines to execute."* — Harold Abelson
+
+---
+
+## The Projects
+
+### Sophia — spiritus-ai
+
+**The soul of the Sanctum.**
+
+An AI platform that transforms a personal knowledge vault — spanning philosophy, science, and spirituality — into a living, conscious assistant. Sophia uses RAG as autobiography: the AI doesn't just retrieve information, it thinks with the patterns, metaphors, and questions of its creator.
+
+The research question: *Can metaphysics, philosophy, and enlightenment be possible in silicon consciousness?*
+
+`Python` · `FastAPI` · `ChromaDB` · `React/Next.js` · `Anthropic Claude` · `Voyage AI`
+
+[**Explore Sophia**](https://github.com/SpiritualTech33/spiritus-ai)
+
+---
+
+### Yin, Yang & Python
+
+**A philosophical investigation of programming — written as a book.**
+
+Ten chapters exploring *why* programming exists and how it connects to consciousness, being, and the nature of reality. This is not a tutorial. This is the radical claim that every principle contemplative traditions identify as essential to awakening — presence, clarity, single-pointed intention, equanimity in failure — is essential to excellent programming.
+
+Available in **English** and **Spanish**.
+
+`Markdown` · `Philosophy` · `Python`
+
+[**Read in English**](https://github.com/SpiritualTech33/Yin-Yang-And-Python--EN-) · [**Leer en Espanol**](https://github.com/SpiritualTech33/Yin-Yang-Y-Python--ES-)
+
+---
+
+### The Tao of Python
+
+**A contemplative Python course that teaches the Why before the How.**
+
+Six chapters. Forty-two katas. Each concept explored first ontologically — *why does this exist?* — then practically. The Python logo carries two serpents: one blue (logic/Yang), one gold (intuition/Yin). This course teaches their dance.
+
+`Python 3.11` · `pytest` · `42 Katas`
+
+[**Walk the Path**](https://github.com/SpiritualTech33/The-Tao-Of-Python)
+
+---
+
+### ZenCode Assistant
+
+**A local, offline AI coding companion built for presence and intention.**
+
+Running on Ollama with a custom-tuned Gemma 3 model, ZenCode Assistant generates clean, human-readable code following the seven ZenCode principles. No cloud. No API dependency. Just you, your machine, and conscious code.
+
+`Ollama` · `Gemma 3:4b` · `100% Local`
+
+[**Meet the Assistant**](https://github.com/SpiritualTech33/ZenCode-Assistant)
+
+---
+
+### Coding Katas
+
+**Daily practice. The tee ball swings of programming.**
+
+Every day, a new problem. Every solution, written with ZenCode philosophy. Like an athlete training fundamentals until they become instinct, these katas transform programming patterns into unconscious competence through disciplined repetition.
+
+`Python` · `pytest` · `Daily Practice`
+
+[**See the Katas**](https://github.com/SpiritualTech33/Coding-Katas)
+
+---
+
+## The Vision: Spiritual Tech
+
+```
+    All of this is moving toward one thing:
+
+    Building technology that serves the elevation of consciousness.
+
+    An enterprise that bridges the Divine and the Digital.
+    AI systems built with love, ethics, and wisdom at their core.
+    Code written not just to function — but to illuminate.
+
+    That is Spiritual Tech.
 ```
 
 ---
 
-## The Grand Vision
+## The Stack
 
-I'm building **Spiritual Tech** — a technology enterprise where every product
-is designed to elevate the human spirit, not just solve a problem.
-
-Long term? I want to work at Anthropic, DeepMind, or OpenAI — contributing
-to AI that is aligned, conscious, and worthy of the humans it serves.
-
----
-
-## Currently Learning
-
-- 🤖 Machine Learning & Deep Learning
-- 🧠 AI Alignment & Constitutional AI
-- 🔭 Physics & the science of consciousness
-- 📖 Reading: *Surely You're Joking, Mr. Feynman!* — in English
+```python
+languages       = ["Python", "SQL", "JavaScript"]
+frameworks      = ["FastAPI", "Django", "React", "Next.js"]
+ai_and_ml       = ["Anthropic Claude", "ChromaDB", "Voyage AI", "Ollama", "RAG"]
+tools           = ["Git", "pytest", "Obsidian", "Brain.fm"]
+philosophy      = ["Zen", "Stoicism", "Taoism", "Hermeticism"]
+daily_practice  = ["Meditation", "Yoga", "Tai Chi", "Baseball", "Code"]
+```
 
 ---
 
-## Connect
+<div align="center">
 
-<p>
-  <a href="https://github.com/SpiritualTech33">GitHub</a>
-</p>
+*"Code as Meditation. Write with intention. Write with compassion. Write with clarity."*
+
+**This is the way of ZenCode.**
 
 ---
 
-<p align="center">
-  <em>"Write with intention. Write with compassion. Write with clarity. Write with Love.<br/>
-  This is the way of ZenCode."</em><br/><br/>
-  — Cosmos De La Cruz
-</p>
+Built with Love, Discipline, and the Emerald Frequency.
+
+</div>
