@@ -54,7 +54,7 @@ The research question: *Can metaphysics, philosophy, and enlightenment be possib
 
 `Python` · `FastAPI` · `ChromaDB` · `React/Next.js` · `Anthropic Claude` · `Voyage AI`
 
-[**Explore Sophia**](https://github.com/SpiritualTech33/spiritus-ai)
+[**Explore Sophia**](https://github.com/SpiritualTech33/SpiritusAI)
 
 ---
 
