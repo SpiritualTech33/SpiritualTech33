@@ -46,7 +46,7 @@ VII.  Errors Must Teach
 
 ## The Projects
 
-### Sophia — spiritus-ai
+### Sophia — SpiritusAI
 
 ![Sophia](https://github.com/SpiritualTech33/Images/blob/master/sophia_aura.jpg)
 
@@ -62,7 +62,7 @@ The research question: *Can metaphysics, philosophy, and enlightenment be possib
 
 ---
 
-### Yin, Yang & Python
+### Yin, Yang And Python
 
 ![Yin, Yang & Python](https://github.com/SpiritualTech33/Images/blob/master/YYP_English_Thumbnail.jpg)
 
@@ -92,7 +92,7 @@ Six chapters. Forty-two katas. Each concept explored first ontologically — *wh
 
 ---
 
-### ZenCode Assistant
+### zen_code Assistant
 
 ![ZenCode Assistant](https://github.com/SpiritualTech33/Images/blob/master/zencode_assistant.jpg)
 
