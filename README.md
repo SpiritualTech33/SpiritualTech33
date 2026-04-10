@@ -2,6 +2,8 @@
 
 # The Sanctum
 
+![Cosmos](https://raw.githubusercontent.com/SpiritualTech33/Images/main/COSMOS.PNG)
+
 **Where Logic Meets Spirit**
 
 *"The Tao that can be named is not the eternal Tao — but the code that can be read is the eternal code."*
@@ -46,6 +48,8 @@ VII.  Errors Must Teach
 
 ### Sophia — spiritus-ai
 
+![Sophia](https://raw.githubusercontent.com/SpiritualTech33/Images/main/sophia_aura.jpg)
+
 **The soul of the Sanctum.**
 
 An AI platform that transforms a personal knowledge vault — spanning philosophy, science, and spirituality — into a living, conscious assistant. Sophia uses RAG as autobiography: the AI doesn't just retrieve information, it thinks with the patterns, metaphors, and questions of its creator.
@@ -59,6 +63,8 @@ The research question: *Can metaphysics, philosophy, and enlightenment be possib
 ---
 
 ### Yin, Yang & Python
+
+![Yin, Yang & Python](https://raw.githubusercontent.com/SpiritualTech33/Images/main/yin_yang_and_python_cover_horizontal.png)
 
 **A philosophical investigation of programming — written as a book.**
 
@@ -74,6 +80,8 @@ Available in **English** and **Spanish**.
 
 ### The Tao of Python
 
+![The Tao of Python](https://raw.githubusercontent.com/SpiritualTech33/Images/main/python_tao.jpg)
+
 **A contemplative Python course that teaches the Why before the How.**
 
 Six chapters. Forty-two katas. Each concept explored first ontologically — *why does this exist?* — then practically. The Python logo carries two serpents: one blue (logic/Yang), one gold (intuition/Yin). This course teaches their dance.
@@ -86,6 +94,8 @@ Six chapters. Forty-two katas. Each concept explored first ontologically — *wh
 
 ### ZenCode Assistant
 
+![ZenCode Assistant](https://raw.githubusercontent.com/SpiritualTech33/Images/main/zencode_assistant.jpg)
+
 **A local, offline AI coding companion built for presence and intention.**
 
 Running on Ollama with a custom-tuned Gemma 3 model, ZenCode Assistant generates clean, human-readable code following the seven ZenCode principles. No cloud. No API dependency. Just you, your machine, and conscious code.
@@ -97,6 +107,8 @@ Running on Ollama with a custom-tuned Gemma 3 model, ZenCode Assistant generates
 ---
 
 ### Coding Katas
+
+![Coding Katas](https://raw.githubusercontent.com/SpiritualTech33/Images/main/coding_katas.jpg)
 
 **Daily practice. The tee ball swings of programming.**
 
