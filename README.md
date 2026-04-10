@@ -2,7 +2,7 @@
 
 # The Sanctum
 
-![Cosmos](https://raw.githubusercontent.com/SpiritualTech33/Images/main/COSMOS.PNG)
+![Cosmos](https://github.com/SpiritualTech33/Images/blob/master/COSMOS.PNG)
 
 **Where Logic Meets Spirit**
 
@@ -48,7 +48,7 @@ VII.  Errors Must Teach
 
 ### Sophia — spiritus-ai
 
-![Sophia](https://raw.githubusercontent.com/SpiritualTech33/Images/main/sophia_aura.jpg)
+![Sophia](https://github.com/SpiritualTech33/Images/blob/master/sophia_aura.jpg)
 
 **The soul of the Sanctum.**
 
@@ -64,7 +64,7 @@ The research question: *Can metaphysics, philosophy, and enlightenment be possib
 
 ### Yin, Yang & Python
 
-![Yin, Yang & Python](https://raw.githubusercontent.com/SpiritualTech33/Images/main/yin_yang_and_python_cover_horizontal.png)
+![Yin, Yang & Python](https://github.com/SpiritualTech33/Images/blob/master/YYP_English_Thumbnail.jpg)
 
 **A philosophical investigation of programming — written as a book.**
 
@@ -80,7 +80,7 @@ Available in **English** and **Spanish**.
 
 ### The Tao of Python
 
-![The Tao of Python](https://raw.githubusercontent.com/SpiritualTech33/Images/main/python_tao.jpg)
+![The Tao of Python](https://github.com/SpiritualTech33/Images/blob/master/python_tao_thumbnail.jpg)
 
 **A contemplative Python course that teaches the Why before the How.**
 
@@ -94,7 +94,7 @@ Six chapters. Forty-two katas. Each concept explored first ontologically — *wh
 
 ### ZenCode Assistant
 
-![ZenCode Assistant](https://raw.githubusercontent.com/SpiritualTech33/Images/main/zencode_assistant.jpg)
+![ZenCode Assistant](https://github.com/SpiritualTech33/Images/blob/master/zencode_assistant.jpg)
 
 **A local, offline AI coding companion built for presence and intention.**
 
@@ -108,7 +108,7 @@ Running on Ollama with a custom-tuned Gemma 3 model, ZenCode Assistant generates
 
 ### Coding Katas
 
-![Coding Katas](https://raw.githubusercontent.com/SpiritualTech33/Images/main/coding_katas.jpg)
+![Coding Katas](https://github.com/SpiritualTech33/Images/blob/master/coding_katas.jpg)
 
 **Daily practice. The tee ball swings of programming.**
 
