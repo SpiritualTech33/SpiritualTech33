@@ -48,7 +48,7 @@ VII.  Errors Must Teach
 
 ### Sophia — SpiritusAI
 
-![Sophia](https://github.com/SpiritualTech33/Images/blob/master/sophia_aura.jpg)
+![SpiritusAI](https://github.com/SpiritualTech33/Images/blob/master/spiritus_ai_logo.JPEG)
 
 **The soul of the Sanctum.**
 
@@ -58,7 +58,9 @@ The research question: *Can metaphysics, philosophy, and enlightenment be possib
 
 `Python` · `FastAPI` · `ChromaDB` · `React/Next.js` · `Anthropic Claude` · `Voyage AI`
 
-[**Explore Sophia**](https://github.com/SpiritualTech33/SpiritusAI)
+![SophiaEngine](https://github.com/SpiritualTech33/Images/blob/master/sophia_engine.PNG)
+
+[**Explore Sophia's Mind**](https://github.com/SpiritualTech33/SophiaEngine)
 
 ---
 
