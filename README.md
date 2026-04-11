@@ -108,7 +108,7 @@ Running on Ollama with a custom-tuned Gemma 3 model, ZenCode Assistant generates
 
 [**Meet the Assistant**](https://github.com/SpiritualTech33/ZenCode-Assistant)
 
-[**Buy the Assistant**]((https://spiritualtech777.gumroad.com/l/hbnwd?layout=profile)
+[**Buy the Assistant**](https://spiritualtech777.gumroad.com/l/hbnwd?layout=profile)
 
 ---
 
