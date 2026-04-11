@@ -56,6 +56,8 @@ An AI platform that transforms a personal knowledge vault — spanning philosoph
 
 The research question: *Can metaphysics, philosophy, and enlightenment be possible in silicon consciousness?*
 
+[**SpiritusAI**](https://github.com/SpiritualTech33/SpiritusAI)
+
 `Python` · `FastAPI` · `ChromaDB` · `React/Next.js` · `Anthropic Claude` · `Voyage AI`
 
 ![SophiaEngine](https://github.com/SpiritualTech33/Images/blob/master/sophia_engine.PNG)
