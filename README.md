@@ -106,7 +106,8 @@ Running on Ollama with a custom-tuned Gemma 3 model, ZenCode Assistant generates
 
 `Ollama` · `Gemma 3:4b` · `100% Local`
 
-[**Meet the Assistant**](https://spiritualtech777.gumroad.com/l/hbnwd?layout=profile)
+[**Meet the Assistant**](https://github.com/SpiritualTech33/ZenCode-Assistant)
+[**Buy the Assistant**]((https://spiritualtech777.gumroad.com/l/hbnwd?layout=profile)
 
 ---
 
