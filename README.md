@@ -2,7 +2,7 @@
 
 # The Sanctum
 
-![Cosmos](https://github.com/SpiritualTech33/Images/blob/master/COSMOS.PNG)
+![Sanctum](https://github.com/SpiritualTech33/Images/blob/master/sanctum_visual.jpg)
 
 **Where Logic Meets Spirit**
 
