@@ -1,97 +1,22 @@
-<div align="center">
+# Hi there
 
-# The Sanctum
+Hi, I’m Cosmos.
 
-![Sanctum](https://github.com/SpiritualTech33/Images/blob/master/sanctum_visual.jpg)
+I’m 25 years old, and I see myself as an eternal apprentice. I believe the best path toward mastery begins with humility: accepting that we do not know everything. The moment we admit that, we open the doors to wisdom and allow it to move through us.
 
-**Where Logic Meets Spirit**
+I’m a curious and unconventional person. I love baseball, boxing, coding, writing, philosophy, spirituality, and science.
 
-*"The Tao that can be named is not the eternal Tao — but the code that can be read is the eternal code."*
+To me, these disciplines are not separate worlds. They are different expressions of the same creative force. I believe creativity grows when we expose ourselves to many kinds of inputs, perspectives, and experiences. Maybe that is why I have so many interests.
 
----
+I am here to love, learn, build, and experience life in as many ways as I can.
 
-`programmer` · `philosopher` · `athlete` · `seeker`
+When I code, I feel that imagination becomes architecture. The only real limit is the depth of what we are willing to envision.
 
-</div>
+My philosophy is simple: build with love, presence, and gratitude.
 
----
+Namaste, friends. God bless everybody.
 
-## Who Am I
-
-I'm Cosmos — a developer, a philosopher, and a baseball athlete who happens to believe that **programming is a contemplative practice**.
-
-The same discipline I bring to meditation at dawn, to the swing of a bat, to the breath in Tai Chi — that's the same discipline I bring to a function. To me, they were never separate. A clean line of code and a clean breath belong to the same family.
-
-I live at the intersection of **logic and spirit** — where Western engineering rigor meets Eastern contemplative wisdom. And I'm slowly, joyfully, building toward a future where technology serves the elevation of consciousness, not the dulling of it.
-
----
-
-## What I Love
-
-- **The Cosmos** — physics, astronomy, the deep questions about why anything exists at all.
-- **Artificial Intelligence** — the most influential industry of our era, and the field where I want to leave a mark.
-- **Philosophy** — Stoicism, Zen, Tao, Hermeticism. But above all: Love, Compassion, and Gratitude.
-- **Baseball** — every single day. I like to think of myself as a Baseball Samurai.
-- **Boxing** - a way to master your body, mind and spirit.
-- **Books** — literature is the longest conversation humans have ever had with themselves.
-
----
-
-## The Philosophy: ZenCode
-
-Everything I write follows **ZenCode** — rooted in Zen, Stoicism, and The Zen of Python:
-
-```
-I.    Clarity Over Cleverness
-II.   Explicitness Over Implicitness
-III.  Naming Is Meaning
-IV.   Code Must Breathe
-V.    Comments Reveal the Why, Not the What
-VI.   One Function, One Responsibility
-VII.  Errors Must Teach
-```
-
-> *"Programs must be written for people to read, and only incidentally for machines to execute."* — Harold Abelson
-
----
-
-## The Vision: Spiritual Tech
-
-```
-    All of this is moving toward one thing:
-    Building technology that serves the elevation of consciousness.
-    An enterprise that bridges the Divine and the Digital.
-    AI systems built with love, ethics, and wisdom at their core.
-    Code written not just to function — but to illuminate.
-
-    That is Spiritual Tech.
-```
-
----
-
-## The Stack
-
-```python
-languages       = ["Python", "SQL", "JavaScript"]
-frameworks      = ["FastAPI", "Django", "React", "Next.js"]
-ai_and_ml       = ["Anthropic Claude", "ChromaDB", "Voyage AI", "Ollama", "RAG"]
-tools           = ["Git", "pytest", "Obsidian", "Brain.fm"]
-philosophy      = ["Zen", "Stoicism", "Taoism", "Hermeticism"]
-daily_practice  = ["Meditation", "Yoga", "Tai Chi", "Baseball", "Code"]
-```
-
----
-
-<div align="center">
-
-*"Code as Meditation. Write with intention. Write with compassion. Write with clarity."*
-
-**This is the way of ZenCode.**
-
----
-
-Built with Love, Discipline, and the Emerald Frequency.
-
-</div>
+“The universe is my country, and science is my religion.”
+— Cosmos De La Cruz
 
 
